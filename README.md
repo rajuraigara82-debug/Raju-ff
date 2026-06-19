@@ -53,4 +53,4 @@ button {
 function levelUp() {
   level++;
   document.getElementById("level").textContent = level;
-}
+} develop jaldi
